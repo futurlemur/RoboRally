@@ -23,7 +23,7 @@ public class Client {
 			System.out.println("Resultat = "+rep);
 			
 		} 
-		
+		///joieh
 		catch (IOException e) {
 			
 			e.printStackTrace();
